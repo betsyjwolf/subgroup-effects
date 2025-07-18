@@ -34,7 +34,7 @@ The online technical appendix can be found [here].
 
 Betsy and Chris were Education Research Analysts at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) before the attacks on the Institute of Education Sciences. 
 
-## Programs and Packages Used in this Project
+## Packages Used in this Project
 
 * Pustejovsky, J. E. (2025). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with Small-Sample Corrections. R package version 0.6.0. https://CRAN.R-project.org/package=clubSandwich
 * Pustejovsky, J., Joshi, M., & Citkowicz, M. (2025). metaselection: Meta-analytic selection models with cluster-robust and cluster-bootstrap standard errors for dependent effect size estimates. R package version 0.1.5, commit 223e8c29e62547d803a14f5b12746b9af9453eb2. https://github.com/jepusto/metaselection
