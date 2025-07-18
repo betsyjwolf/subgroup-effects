@@ -12,7 +12,7 @@ Education researchers are increasingly interested in understanding ‘what works
 
 The data can be found below:
 
-- [Data]
+- [Data](https://github.com/betsyjwolf/subgroup-effects/blob/main/subgroup_public.csv)
 
 And the codebook can be found below:
 
