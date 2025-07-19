@@ -32,7 +32,7 @@ The online technical appendix can be found [here].
 
 ## Authors
 
-Betsy and Chris were Education Research Analysts at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) before the attacks on the Institute of Education Sciences. 
+Betsy and Chris were Education Research Analysts at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) before nearly all staff at the Institute of Education Sciences were subject to a reduction in force as part of DOGE efforts to eliminate research and accountability across multiple sectors. The DOGE cuts have implications for both the public sector and the private sector, as many researchers in the private sector were also affected. 
 
 ## Packages Used in this Project
 
