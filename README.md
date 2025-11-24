@@ -38,7 +38,7 @@ Betsy and Chris were Education Research Analysts at the [What Works Clearinghous
 
 * Pustejovsky, J. E. (2025). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with Small-Sample Corrections. R package version 0.6.0. https://CRAN.R-project.org/package=clubSandwich
 * Pustejovsky, J., Joshi, M., & Citkowicz, M. (2025). metaselection: Meta-analytic selection models with cluster-robust and cluster-bootstrap standard errors for dependent effect size estimates. R package version 0.1.5, commit 223e8c29e62547d803a14f5b12746b9af9453eb2. https://github.com/jepusto/metaselection
-* Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of Statistical Software, 36(3), 1-48. https://doi.org/10.18637/jss.v036.i03
+* Viechtbauer, W. (2010). metafor: Conducting meta-analyses in R with the metafor package. Journal of Statistical Software, 36(3), 1-48. https://doi.org/10.18637/jss.v036.i03
 * And, of course:
 * Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. ISBN 978-3-319-24277-4, https://ggplot2.tidyverse.org.
   
