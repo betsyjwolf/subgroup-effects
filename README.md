@@ -32,7 +32,7 @@ The online technical appendix can be found [here].
 
 ## Authors
 
-Betsy and Chris were Education Research Analysts at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) before nearly all staff at the Institute of Education Sciences were subject to a [reduction in force] (https://www.nytimes.com/interactive/2026/01/09/upshot/trump-workforce-cuts-table.html?unlocked_article_code=1.DFA.Y-Uo.a9yrh4xIr_wE&smid=url-share) as part of DOGE efforts to eliminate research and accountability across multiple sectors. The DOGE cuts have implications for both the public sector and the private sector, as many education researchers in the private sector were also affected. The future of the What Works Clearinghouse remains uncertain. 
+Betsy and Chris were Education Research Analysts at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) before nearly all staff at the Institute of Education Sciences were subject to a [reduction in force](https://www.nytimes.com/interactive/2026/01/09/upshot/trump-workforce-cuts-table.html?unlocked_article_code=1.DFA.Y-Uo.a9yrh4xIr_wE&smid=url-share) as part of DOGE efforts to eliminate research and accountability across multiple sectors. The DOGE cuts have implications for both the public sector and the private sector, as many education researchers in the private sector were also affected. The future of the What Works Clearinghouse remains uncertain. 
 
 ## Packages Used in this Project
 
