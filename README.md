@@ -32,13 +32,12 @@ The online technical appendix can be found [here].
 
 ## Authors
 
-Betsy and Chris were Education Research Analysts at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) before nearly all staff at the Institute of Education Sciences were subject to a reduction in force as part of DOGE efforts to eliminate research and accountability across multiple sectors. The DOGE cuts have implications for both the public sector and the private sector, as many education researchers in the private sector were also affected. The future of the What Works Clearinghouse remains uncertain. 
+Betsy and Chris were Education Research Analysts at the [What Works Clearinghouse](https://ies.ed.gov/ncee/wwc/) before nearly all staff at the Institute of Education Sciences were subject to a [reduction in force] (https://www.nytimes.com/interactive/2026/01/09/upshot/trump-workforce-cuts-table.html?unlocked_article_code=1.DFA.Y-Uo.a9yrh4xIr_wE&smid=url-share) as part of DOGE efforts to eliminate research and accountability across multiple sectors. The DOGE cuts have implications for both the public sector and the private sector, as many education researchers in the private sector were also affected. The future of the What Works Clearinghouse remains uncertain. 
 
 ## Packages Used in this Project
 
 * Pustejovsky, J. E. (2025). clubSandwich: Cluster-Robust (Sandwich) Variance Estimators with Small-Sample Corrections. R package version 0.6.0. https://CRAN.R-project.org/package=clubSandwich
 * Pustejovsky, J., Joshi, M., & Citkowicz, M. (2025). metaselection: Meta-analytic selection models with cluster-robust and cluster-bootstrap standard errors for dependent effect size estimates. R package version 0.1.5, commit 223e8c29e62547d803a14f5b12746b9af9453eb2. https://github.com/jepusto/metaselection
 * Viechtbauer, W. (2010). metafor: Conducting meta-analyses in R with the metafor package. Journal of Statistical Software, 36(3), 1-48. https://doi.org/10.18637/jss.v036.i03
-* And, of course:
 * Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. ISBN 978-3-319-24277-4, https://ggplot2.tidyverse.org.
   
