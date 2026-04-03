@@ -2,7 +2,7 @@
 
 This repository provides open access to data and materials from the paper:
 
-- Wolf, B., & Klager, C. (2025). Subgroup effects, compositional effects, and treatment effect heterogeneity. Manuscript submitted for publication. 
+- Wolf, B., & Klager, C. (2026). Subgroup effects, compositional effects, and treatment effect heterogeneity. Journal of Research on Educational Effectiveness (JREE). 
 
 ## Abstract
 
@@ -24,7 +24,7 @@ But most of the variables come directly from the [What Works Clearinghouse](http
 
 This work was partly commissioned by the WWC to both inform and promote discussion about educational research. This work was created as part of the Contributors' official duties as employees of the United States Government and is therefore a work of the U.S. Government. The content of the publication does not necessarily reflect the views or policies of the U.S. Government nor does mention of trade names, commercial products, or organizations imply endorsement by the U.S. Government. In accordance with 17 U.S.C. 105, the report and the accompanying data are in the public domain. While permission to use these data is not necessary, the data should be cited as:
 
-- Wolf, B., & Klager, C. (2025). Subgroup effects, compositional effects, and treatment effect heterogeneity. Manuscript submitted for publication.
+- Wolf, B., & Klager, C. (2026). Subgroup effects, compositional effects, and treatment effect heterogeneity. Journal of Research on Educational Effectiveness (JREE). 
 
 ## Supplemental Materials
 
